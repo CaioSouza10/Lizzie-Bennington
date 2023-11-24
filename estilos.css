@@ -1,3 +1,11 @@
+audio {
+  border: 2px solid #030303; /* Adiciona uma borda de 2px sólida cinza */
+  border-radius: 5px; /* Borda levemente arredondada */
+  padding: auto; /* Espaçamento interno para a borda */
+  border-color: black;
+  border-width: auto;
+}
+
 body {
   font-family: 'Barlow', sans-serif;
   --bege: #E6E0D6;
